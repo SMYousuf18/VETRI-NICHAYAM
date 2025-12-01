@@ -1,0 +1,64 @@
+body{
+    background-color: azure;
+}
+h1{
+    margin: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+label{
+    text-align: center;
+    padding: 30px
+}
+div{
+    background-color:grey;
+    text-align: center;
+    border: 3px solid black;
+}
+.userName{
+     margin-left: 45px;
+    
+}
+.userEmail{
+    margin-left:82px;
+}
+input{
+    margin: 10px;
+    border-radius: 10px;
+    height: 25px;
+    
+}
+.userPassword{
+    margin-left: 50px;
+}
+.userGender{
+    margin-left: 90px;
+}
+.userDob{
+    margin-left: 40px;
+}
+.userNumber{
+    margin-left: 10px;
+}
+.userAddress{
+    margin-left: 35px;
+}
+.userProfile{
+    margin-left: 20px;
+}
+.userCity{
+    margin-left: -120px;
+}
+.userAgree{
+    margin-top: 20px;
+}
+form{
+    width: 600px;
+    background-color: lightblue;
+    margin-left: 30%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
